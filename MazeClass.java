@@ -26,9 +26,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.ArcType;
 import javafx.stage.Stage;
-import java.util.*;
-import java.io.*;
-import java.lang.*;
+
 
 public class MazeClass extends Canvas
 {
